@@ -1066,7 +1066,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30fbd5dc83fa64e439f3ededdc23eca9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wpManager: {fileID: 0}
+  wpManager: {fileID: 1640401025}
 --- !u!1001 &1803876347
 PrefabInstance:
   m_ObjectHideFlags: 0
